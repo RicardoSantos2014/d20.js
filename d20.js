@@ -142,7 +142,7 @@
                 return [];
             }
     
-            result = (numberOfDice*dice)+numericModifier;
+            result = (numberOfDice)+numericModifier;
     
             return result;
 

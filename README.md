@@ -5,6 +5,12 @@ Javascript library for rolling RPG dice. Supports dice notation such as "4d6" an
 [![npm version](https://img.shields.io/npm/v/d20.svg)](https://npmjs.org/package/d20)
 [![Build Status](https://api.travis-ci.org/michaelenger/d20.js.svg?branch=master)](https://travis-ci.org/michaelenger/d20.js)
 
+This version was edited by Ricardo Santos in order to include some functions to calculate statistical values regarding the dice roll numbers, namely:
+
+ * Function to calculate the mean value of a dice roll
+ * Function to calculate the minimum value of a dice roll
+ * Function to calculate the maximum value of a dice roll
+
 ## Installation
 
 ### In the browser
