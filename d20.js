@@ -191,7 +191,7 @@
                 return [];
             }
     
-            result = (numberOfDice*(1 + dice)/2)+numericModifier;//parseFloat(numberOfDice*((1.0+dice)/2.0) + numericModifier);
+            result = (numberOfDice*(1 + dice)/2)+numericModifier;
     
             return result;
         }
